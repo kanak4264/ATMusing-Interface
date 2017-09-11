@@ -1,0 +1,6 @@
+C:\Users\MAHIN\documents\visual studio 2017\Projects\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.csprojResolveAssemblyReference.cache
+C:\Users\MAHIN\documents\visual studio 2017\Projects\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.exe.config
+C:\Users\MAHIN\documents\visual studio 2017\Projects\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.exe
+C:\Users\MAHIN\documents\visual studio 2017\Projects\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.pdb
+C:\Users\MAHIN\documents\visual studio 2017\Projects\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.exe
+C:\Users\MAHIN\documents\visual studio 2017\Projects\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.pdb
